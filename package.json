@@ -1,0 +1,30 @@
+{
+  "name": "test-exam-First-backEnd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saddam-maratouq/test-exam-First-backEnd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saddam-maratouq/test-exam-First-backEnd/issues"
+  },
+  "homepage": "https://github.com/saddam-maratouq/test-exam-First-backEnd#readme",
+  "dependencies": {
+    "axios": "^0.21.2",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "install": "^0.13.0",
+    "mongoose": "^6.0.4",
+    "npm": "^7.22.0"
+  }
+}
